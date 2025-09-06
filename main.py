@@ -1,5 +1,8 @@
 "SIMPLE CALCULAOTR"
+# IT IS A SIMPLE CALCULATOR
 while True:
+
+#IT TAKE INPUT FROM THE USER 
  a=float(input("Enter a first  number:"))
  b=float(input("Enter a second  number:"))
  print("Select your operation to be performed (+, -, *, /, %, //):")
@@ -36,6 +39,5 @@ while True:
  if again !='y':
     print("Exiting calculator. Goodbye! 👋")
     break
-
 
 
